@@ -1,9 +1,15 @@
 ### Hi there 👋
-I am full-stack developer with a strong focus on JavaScript and TypeScript. I have experience in developing web applications using React, Redux, NestJS, and GraphQL on the frontend, and NodeJS, ExpressJS, and Knex on the backend. I happen to be well-versed in project management and have a track record of managing successful IT projects, including the implementation of corporate-wide ERP and new workflows on K2 for MS SharePoint. Writing technical documentation, setting-up CI/CD, using Agile methodologies are also a part of my undertakings. 
+I happen to be well-versed in project management and have a track record of managing successful IT projects, including the implementation of corporate-wide ERP and new workflows on K2 for MS SharePoint. Writing technical documentation, setting-up CI/CD, using Agile methodologies are also a part of my undertakings. 
+Now develop webapps mostly using JavaScript and TypeScript. 
 
-You can always contact me via email [cygapb@gmail.com](mailto:cygapb@gmail.com?subject=[GitHub]%20profile)
+📫You can always contact me via email [cygapb@gmail.com](mailto:cygapb@gmail.com?subject=[GitHub]%20profile)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,javascript,typescript,react,vue,nodejs,expressjs,nestjs,graphql,docker,mysql,mongodb,vscode,webpack,regex,git,jest,scss,sharepoint&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,googlecloud,javascript,typescript,react,vue,nodejs,expressjs,nestjs,graphql,docker,mysql,mongodb,vscode,webpack,regex,git,jest,scss&perline=6)](https://skillicons.dev)
+
+Here are some technologies I use in my stack:
+JavaScript, TypeScript, React, Redux+RTK, Git, CSS, CSS Modules, Vite, Jest, Cypress, React native, Docker, AWS, Azure, Google Cloud, SQL, MongoDB, SASS, Tailwindcss, Emotion, GitHib actions, NextJS, GraphQL, ExpressJS, Knex, NestJS, Webpack/Babel, RegEx, JSDoc, Jira, CLI(bash), Storybook, Figma.
+
+🌱 I'm also actively playing with angular and c#/.net these days...
 
 ![Codewars](https://www.codewars.com/users/Cygapb/badges/micro)
 <!--
